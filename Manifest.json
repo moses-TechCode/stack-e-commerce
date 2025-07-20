@@ -1,7 +1,0 @@
-{
-  "name": "Auto Save Plugin",
-  "author": "Moses Kapila",
-  "description": "Automatically saves code every few seconds.",
-  "main": "plugin.html",
-  "icon": "https://cdn-icons-png.flaticon.com/512/427/427735.png"
-}
