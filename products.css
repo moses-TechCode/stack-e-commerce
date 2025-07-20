@@ -1,0 +1,16 @@
+.container {
+  display: grid;
+  grid-template-columns: 30% 1fr;
+  grid-template-rows: 1fr;
+  gap: 10px 10px;
+}
+
+.more_producss {
+  display: flex;
+  gap: 20px;
+  flex-wrap: wrap;
+}
+
+.item:nth-child(2) {
+  flex-grow: 1;
+}
