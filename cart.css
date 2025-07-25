@@ -1,6 +1,21 @@
-.container{
-  width:300px;
-  hieght:80px;
-  background-color:#000;
-  
-  }
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+table{
+  width: 100%;
+}
+.products{
+  margin: 10px;
+  display: flex;
+}
+th,tr{
+  margin: 10px;
+}
+input{
+  width:40px;
+}
+img{
+  width: 100px;
+}
